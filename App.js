@@ -1,7 +1,7 @@
 // React Native Tab - Example using React Navigation V5 //
 // https://aboutreact.com/react-native-tab //
 import 'react-native-gesture-handler';
-
+ 
 import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
